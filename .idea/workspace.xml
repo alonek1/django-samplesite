@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c18eca8-4478-4eae-b2d4-0a0f3604d48c" name="Default Changelist" comment="" />
+    <list default="true" id="8c18eca8-4478-4eae-b2d4-0a0f3604d48c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_weblog/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample_weblog/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_weblog/blog/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/sample_weblog/blog/templates/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_weblog/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/sample_weblog/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_weblog/sample_weblog/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample_weblog/sample_weblog/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lTsfd6AUrjfNpCukqAhWW8ja6u" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -77,25 +88,33 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="356" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1607651933078" />
-    <state width="1259" height="197" key="GridCell.Tab.0.bottom" timestamp="1607742464959">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1259" height="197" key="GridCell.Tab.0.bottom" timestamp="1607880496648">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1259" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1607742464959" />
-    <state width="1259" height="197" key="GridCell.Tab.0.center" timestamp="1607742464958">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1259" height="197" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1607880496648" />
+    <state width="1259" height="197" key="GridCell.Tab.0.center" timestamp="1607880496643">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1259" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1607742464958" />
-    <state width="1259" height="197" key="GridCell.Tab.0.left" timestamp="1607742464957">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1259" height="197" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1607880496643" />
+    <state width="1259" height="197" key="GridCell.Tab.0.left" timestamp="1607880496636">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1259" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1607742464957" />
-    <state width="1259" height="197" key="GridCell.Tab.0.right" timestamp="1607742464959">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1259" height="197" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1607880496636" />
+    <state width="1259" height="197" key="GridCell.Tab.0.right" timestamp="1607880496645">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1259" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1607742464959" />
+    <state width="1259" height="197" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1607880496645" />
     <state x="141" y="50" key="SettingsEditor" timestamp="1607711694963">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="141" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1607711694963" />
+    <state x="166" y="606" key="com.intellij.ide.util.TipDialog" timestamp="1608236405029">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="166" y="606" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1608236405029" />
   </component>
 </project>

@@ -11,4 +11,5 @@ context = {
         'titles': titles,
     }
 
+
 print(context['titles']['Blog-Home'])
